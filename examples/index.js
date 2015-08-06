@@ -1,4 +1,4 @@
-var ArcJSON = require('../lib/index');
+var ArcJSON = require('arcgis-json-objects');
 var obj;
 
 for (var key in ArcJSON) {
