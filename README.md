@@ -33,7 +33,7 @@ Method| Specifications|Description
 featureService(options)|[featureServiceObject](http://resources.arcgis.com/en/help/sds/rest/featureServiceObject.html)|Description of a feature service
 featureLayer(options)|[featureLayer](http://resources.arcgis.com/en/help/sds/rest/featureLayer.html)|Definition of a feature layer ready to add to a feature service
 field(options)|n/a|Field of a feature layer
-exportableWebmap(options)|[exportwebmap](http://resources.arcgis.com/en/help/rest/apiref/index.html?exportwebmap_spec.html)|Exportable webmap object
+exportableWebmap(options)|[exportwebmap](http://resources.arcgis.com/en/help/rest/apiref/exportwebmap_spec.html)|Exportable webmap object
 
 The options params allows you to overwrite any attribute of the object, for example, if you call exportableWebmap like this:
 ```javascript
